@@ -1,307 +1,451 @@
-# HeyZack Landing Page Copy
 
-## "Your Home, In Sync" Messaging
+* [ ] Media and assets for the kickstarter specific product page
 
----
-
-## Hero Section
-
-### Headline
-
-**Your Home, In Perfect Sync**
-
-### Subheadline
-
-Finally, a smart home that actually makes life easier. HeyZack unifies all your devices through natural conversation—all in one-app, no complexity, just intelligent living.
-
-### Hero CTA
-
-**[Join the Waitlist - Early Bird Access]**
-
-### Supporting Text
-
-*Coming to Kickstarter March 2025*
+# Heyzack ─ Your Home, Your AI
 
 ---
 
-## Problem Section
+[BLOCK: TEXT & IMAGE SINGLE COLUMN]
 
-### Section Headline
+## 🏠 Introduction
 
-**Smart Home Survivor? You're Not Alone.**
+Meet  **Heyzack** —an all-in-one smart-home kit powered by on-device AI to save energy, secure every entry, and streamline daily comfort.
 
-### Problem Statement
+One voice command syncs lights, climate, and security the moment you step in. Heyzack learns your rhythms, cuts wasted power, and locks up tight when you leave—saving up to **30 %** on bills while your family sleeps easier.
 
-You invested thousands in smart devices to simplify life. Instead, you're managing eleven different apps, dealing with devices that don't talk to each other, and spending weekends troubleshooting your own home.
+Everything works together automatically—so you spend less, worry less, and relax more.
 
-**Sound familiar?**
-
-- Multiple apps for basic home control
-- Voice assistants that only work with some devices
-- Automations that fail 30% of the time
-- Family members who avoid the "smart" features
-- Energy bills that keep climbing despite "smart" devices
+Back us today for early-bird pricing and feel the difference from day one.
 
 ---
 
-## Solution Section
+[BLOCK: TEXT ONLY]
 
-### Section Headline
+## 🎯 Our Goal: $200,000
 
-**Meet Your Home's Intelligent Guardian**
-
-### Solution Statement
-
-HeyZack transforms your existing smart home into an intelligent guardian that anticipates your needs, protects your family, and optimizes your comfort—all through natural conversation.
-
-### Key Benefits
-
-**🗣️ One Voice Controls Everything**
-Every device, every brand, one natural conversation. No more app juggling.
-
-**🧠 Learns Your Life**
-Adapts to your schedule, preferences, and family routines automatically.
-
-**🛡️ Protects Proactively**
-Security that thinks ahead and coordinates all your systems as one.
-
-**💡 Saves Intelligently**
-Optimizes energy across all devices, typically saving 20-30% on bills.
-
-**⚡ Quick & Easy Setup**
-Professional results in 30 minutes. No rewiring, no technical expertise.
+To bring Heyzack to life, we need to fund our first major production run. Your support will cover tooling, manufacturing, and software development costs to get these kits into your hands. Help us reach our $200,000 goal and start a new era of smart living.
 
 ---
 
-## How It Works Section
+[BLOCK: TEXT ONLY]
 
-### Section Headline
+## 🗺️ Table of Contents
 
-**Your Home, In Sync**
-
-### Process Steps
-
-**1. Connect & Discover**
-HeyZack automatically finds and connects to all your existing smart devices—regardless of brand.
-
-**2. Learn & Adapt**
-Our AI observes your patterns and preferences, creating personalized automations without programming.
-
-**3. Sync & Optimize**
-All your devices work together as one intelligent system, coordinated through natural conversation.
-
-### Example Interaction
-
-**You:** "Good morning, HeyZack"
-
-**Your Home Responds:**
-
-- Lights gradually brighten to match your energy
-- Climate adjusts for comfort and efficiency
-- Security transitions from night to day mode
-- Coffee maker starts your preferred brew
-- Calendar briefing includes weather and traffic
-- Energy systems coordinate to minimize costs
-
-*One conversation. Perfect harmony.*
+* [The Problem](https://www.notion.so/Kickstarter-page-1fd09e4fba4a80f7949fcdd5ec3c574e?pvs=21)
+* [The Solution](https://www.notion.so/Kickstarter-page-1fd09e4fba4a80f7949fcdd5ec3c574e?pvs=21)
+* [How It Works](https://www.notion.so/Kickstarter-page-1fd09e4fba4a80f7949fcdd5ec3c574e?pvs=21)
+* [What’s Inside](https://www.notion.so/Kickstarter-page-1fd09e4fba4a80f7949fcdd5ec3c574e?pvs=21)
+* [Meet the Devices](https://www.notion.so/Kickstarter-page-1fd09e4fba4a80f7949fcdd5ec3c574e?pvs=21)
+* [Automation Playbook](https://www.notion.so/Kickstarter-page-1fd09e4fba4a80f7949fcdd5ec3c574e?pvs=21)
+* [Pledge Tiers](https://www.notion.so/Kickstarter-page-1fd09e4fba4a80f7949fcdd5ec3c574e?pvs=21)
+* [Our Story](https://www.notion.so/Kickstarter-page-1fd09e4fba4a80f7949fcdd5ec3c574e?pvs=21)
+* [Risks &amp; Challenges](https://www.notion.so/Kickstarter-page-1fd09e4fba4a80f7949fcdd5ec3c574e?pvs=21)
 
 ---
 
-## Social Proof Section
+[BLOCK: TEXT ONLY]
 
-### Section Headline
+## 🤔 The Problem
 
-**Trusted by Smart Home Survivors**
+Today’s “smart” still leaves big blind spots:
 
-### Testimonials
+* **Cameras & Doorbells** – They record break-ins after the fact instead of warning you the second a stranger steps up or a package lands.
+* **Power Strips & Plugs** – Outlet bars keep sipping power 24/7; you pay for energy you never use and have no way to stop it.
+* **Remotes & Climate** – A pile of clickers rules your living room while the AC chills empty rooms and spikes bills.
+* **Pet Care** – Basic feeders miss meals and water runs dry when you’re away; no check-in, no peace of mind.
+* **Fragmented Apps** – Every gadget demands its own login and refuses to cooperate with the rest.
 
-**"Finally, everything works together"**
-*"I used to spend hours every week troubleshooting our smart home. Now everything just works through conversation."*
-**— David C., Product Manager**
-
-**"28% energy savings in month one"**
-*"HeyZack coordinates our AC, water heater, and EV charging to avoid peak rates automatically."*
-**— Jennifer K., Homeowner**
-
-**"My kids love it"**
-*"My children can control their room lighting and music just by talking. No more fighting over apps."*
-**— Maria S., Mother of Two**
+Result: higher bills, security gaps, and daily hassle instead of comfort.
 
 ---
 
-## Features Section
+[BLOCK: TEXT ONLY]
 
-### Section Headline
+## ✨ The Solution — Heyzack
 
-**Intelligence That Grows With You**
+Heyzack is a **voice-native AI platform** that ships with a hand-picked kit of devices — so you get instant, house-wide automation *and* the brain that makes it effortless.
 
-### Feature Grid
+> Conversational AI • Instant DIY install • Security, Savings & Comfort
 
-**Universal Compatibility**
-Works with 500+ smart device brands. Alexa, Google, Siri, Apple HomeKit—all unified.
+| AI Power                    | What It Means for You                                                                          |
+| --------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Central Brain**     | Conversational hub learns habits and syncs every device & app — just say it, and it’s done.  |
+| **Security Guardian** | Doorbell, cams, and sensors fuse data so the AI knows friend from foe and warns you instantly. |
+| **Savings Engine**    | Predictive algorithms trim HVAC & standby loads — save up to 30 % without lifting a finger.   |
+| **Comfort Concierge** | Delivers perfect light, temp, and ambience on request or automatically via presence sensing.   |
+| **Plug-&-Play Setup** | Peel-and-stick sensors + auto-pair hardware means full install in under 30 minutes.            |
+| **Data Stays Home**   | On-device processing & encryption keep your life private.                                      |
 
-**Local AI Processing**
-Core functions work without internet. Your privacy stays home.
-
-**Family-Friendly**
-Intuitive for everyone from children to grandparents. No learning curve.
-
-**Professional Reliability**
-99.9% uptime guarantee with 3-year comprehensive warranty.
-
-**Automatic Updates**
-Your guardian gets smarter over time with new capabilities.
-
-**Energy Optimization**
-Intelligent coordination typically saves 20-30% on utility bills.
+> Voice Does It All – Every device in the kit, every scene, and every integration can be summoned or created with a simple phrase like “Heyzack, make a bedtime routine.” Thanks to cloud-secure connectors, Heyzack can also pull info from your favourite services—weather, calendars, to-do lists—so you can ask “What’s on my schedule?” or “Remind me to water the plants” and get instant, contextual answers. The hub itself is a stylish speaker with far-field mics and rich sound for music, news, podcasts, and hands-free calls.
 
 ---
 
-## Pricing Section
+[BLOCK: TEXT ONLY]
 
-### Section Headline
+## 💰 Your Return on Investment
 
-**Choose Your Guardian Level**
+Heyzack isn't just an expense; it's an investment that pays for itself.
 
-### Pricing Tiers
+With average energy savings of  **up to 30%** , a typical US household can save  **$40-$60 per month** .
 
-**Essential Guardian**
-*Perfect for apartments and starter homes*
-**Early Bird: $399** *(Retail $599)*
-Voice Hub, Smart Integration, Basic Learning
+* **The Essentials Kit ($199):** Pays for itself in **under 5 months.**
+* **The Total Home Kit ($449):** Pays for itself in **under a year.**
 
-**Complete Guardian**
-*Comprehensive protection and optimization*
-**Early Bird: $699** *(Retail $999)*
-Adds Security Suite, Climate Optimization
-
-**Premium Guardian**
-*Full AI intelligence with predictive capabilities*
-**Early Bird: $999** *(Retail $1,399)*
-Full AI Intelligence + 1 Year Premium Service
-
-*All kits work with your existing smart devices*
+After that, it’s pure savings, month after month. You get world-class security and comfort, and your wallet gets thicker.
 
 ---
 
-## Trust & Security Section
+[BLOCK: TEXT ONLY]
 
-### Section Headline
+## ⚙️ How It Works
 
-**Privacy & Security You Can Trust**
-
-### Security Features
-
-**🏠 Local Processing**
-Core functions work without internet connection
-
-**🔒 Military-Grade Encryption**
-All data transmission is fully encrypted
-
-**🚫 No Data Selling**
-Your privacy is not our product
-
-**👤 Transparent Controls**
-You decide what data is shared and with whom
-
-**✅ 90-Day Guarantee**
-Risk-free satisfaction promise
+1. **Plug In the Heyzack Hub** – It auto-discovers every included device.
+2. **Connect in the App** – Answer a few quick questions about your routines.
+3. **Start Talking** – Say “Heyzack, I’m home” and watch the magic happen.
+4. **Let It Learn** – Heyzack refines automations daily, sending suggestions you can accept with one tap.
 
 ---
 
-## FAQ Section
+[BLOCK: THREE COLUMNS]
 
-### Section Headline
+## 📦 What’s Inside the Heyzack Starter Kit?
 
-**Frequently Asked Questions**
+| Device                              | Unique Super-Power                                                 |
+| ----------------------------------- | ------------------------------------------------------------------ |
+| **Doorbell Cam**              | AI face & package detection, two-way talk, night-vision greeting   |
+| **Security Cam**              | 1080p HDR, motion tracking, instant mobile alerts                  |
+| **Door & Window Sensors ×2** | Ultra-slim, peel-&-stick, tamper-proof triggers                    |
+| **Human Presence Sensor Pro** | mm-wave radar for precise occupancy & posture detection            |
+| **Universal Remote Control**  | Blasts IR/BT/RF, giving smart control to any "dumb" TV, AC, or fan |
+| **Smart Power Strip**         | Independently switch & monitor 4 outlets + USB-C fast charge       |
+| **Smart Plugs ×2**           | Tiny form-factor, energy metering, 15 A surge protection           |
+| **Smart Pet Feeder AI**       | Schedules meals, recognises pets, prevents over-feeding            |
 
-**Q: Will HeyZack work with my existing smart devices?**
-A: Yes! HeyZack is compatible with 500+ smart device brands including Philips Hue, Ring, Nest, Ecobee, and more. It unifies everything you already own.
+### 🤖 Unified Intelligence – Why the Whole Kit > Sum of Parts
 
-**Q: How difficult is the installation?**
-A: Setup takes about 30 minutes with no technical expertise required. Just plug in the hub, let HeyZack discover your devices, and start talking.
+1. **Intruder Deterrent Loop**Presence Sensor spots motion → Security Cam pans & records → Doorbell Cam flashes light ring → Power Strip flips on a lamp + radio to simulate occupancy → Instant alert to your phone.
+2. **Energy Guardian**Presence Sensor reports empty room → Universal Remote powers down AC → Smart Plugs kill vampire devices → Power Strip logs savings in the app.
+3. **Pet-Care Patrol**Pet Feeder detects your cat near bowl → Security Cam starts recording a cute clip → Heyzack logs feeding time and tells the Plug to warm the pet pad.
+4. **Movie Night Macro**
+   Voice command "Heyzack, movie time" → Universal Remote dims TV backlight & fires up Netflix → Power Strip turns on soundbar → Plugs turn off bright lamps → Presence Sensor holds the scene until last viewer leaves.
 
-**Q: Is my data secure?**
-A: Absolutely. HeyZack processes core functions locally and uses military-grade encryption for all communications. We never sell your data.
-
-**Q: What if I'm not satisfied?**
-A: We offer a 90-day satisfaction guarantee. If you're not completely happy, return your HeyZack system for a full refund.
-
-**Q: When will HeyZack ship?**
-A: Early Bird backers will receive their HeyZack systems in March 2025.
-
----
-
-## Final CTA Section
-
-### Section Headline
-
-**Ready for a Home That Actually Works for You?**
-
-### Closing Statement
-
-Join thousands of smart home survivors who are finally getting the intelligent living they were promised. Your home should work for you, not against you.
-
-### Primary CTA
-
-**[Join the Waitlist - Get Early Bird Access]**
-
-### Secondary CTA
-
-**[Learn More About HeyZack]**
-
-### Supporting Text
-
-*Be the first to know when our Kickstarter campaign launches*
-*40% off retail pricing for early supporters*
-*90-day satisfaction guarantee*
+With Heyzack’s on-device AI, every component shares data instantly—but only within your home network—creating automations that feel like magic, not gadget juggling.
 
 ---
 
-## Footer
+[BLOCK: TEXT & IMAGE SIDE-BY-SIDE]
 
-### Tagline
+## ✨ Meet the Devices
 
-**HeyZack: Your Home's Intelligent Guardian**
+*Each device sits on the right, copy on the left when you lay out the campaign.*
 
-### Contact
+### 🔔 Battery Video Doorbell (IPB192)
 
-**Questions?** Our smart home experts are here to help.
-**Email:** hello@heyzack.com
-**Support:** Available 7 days a week
+[Battery Doorbell](image)
 
----
+Welcome friends, ward off strangers. See who’s there in crisp 2-K detail and chat from anywhere.
 
-## Page Optimization Notes
+**Why you’ll love it**
+• Know your porch is safe, day or night.
+• Chat with couriers so packages never wander.
+• Install in minutes—no wires, no fuss.
 
-### Key Messaging Reinforcement
+**Core features**
 
-- **"Your Home, In Sync"** appears in hero and how-it-works sections
-- **"Intelligent Guardian"** positioning throughout
-- **Benefits over features** focus
-- **Smart home survivor** empathy and understanding
-
-### Conversion Optimization
-
-- **Multiple CTAs** at strategic points
-- **Social proof** from real users
-- **Risk reversal** with 90-day guarantee
-- **Urgency** with early bird pricing
-- **Trust signals** with security and privacy focus
-
-### SEO Considerations
-
-- **Primary keyword:** "smart home automation"
-- **Secondary keywords:** "voice control," "home AI," "smart home kit"
-- **Long-tail keywords:** "smart home that actually works," "unified smart home control"
-
-### Mobile Optimization
-
-- **Scannable sections** with clear headlines
-- **Benefit-focused bullets** for quick reading
-- **Prominent CTAs** above the fold
-- **Social proof** early in the page flow
+1. Cable-free, rechargeable freedom
+2. Smart motion pings + instant talk-back
+3. Weatherproof peace of mind
 
 ---
 
-*This landing page is optimized for pre-launch lead capture and Kickstarter campaign preparation, emphasizing the "Your Home, In Sync" messaging while addressing the pain points of smart home survivors.*
+### 🔔 2K Video Doorbell (SC162-WCD3)
+
+[2K Doorbell](image)
+
+An ultra-wide, ultra-sharp guardian that spots people, pets or parcels before they even ring.
+
+ **Feels like** : opening the door only to the right people.**Core features**
+
+1. 170° theatre-wide view
+2. AI package & human detection
+3. Runs on battery *or* doorbell power
+
+---
+
+### 🌞 Battery Solar Camera (IPC197)
+
+[Solar Cam](image)
+
+Solar cells sip sunshine, so you sip iced tea while your yard stays secured—completely wire-free.
+
+**Benefits**
+• Zero cables, zero outages
+• Hear & speak in real time
+• Sleep easy with night-vision clarity
+
+**Core features**
+
+1. Built-in solar charger
+2. Full-HD night eyes
+3. Siren + two-way talk
+
+---
+
+### 🚪 Smart Door & Window Sensor
+
+[Sensor](image)
+
+Tiny guardian angels that whisper when anything opens so surprises never slip in.
+
+**Benefits**
+• Sleep with windows cracked yet guarded
+• Get a ping if kids sneak the cookie jar
+• Trigger lights when you arrive
+
+**Core features**
+
+1. Ultra-slim, peel-and-stick
+2. Tamper alerts
+3. Scene-ready triggers
+
+---
+
+### 👁️ PIR Motion Sensor (MD100-W)
+
+[Motion](image)
+
+Knows when rooms are buzzing and when they’re empty so energy never burns alone.
+
+**Benefits**
+• Lights you forget? It doesn’t.
+• Auto arms security when the house empties
+• Battery lasts *years*
+
+**Core features**
+
+1. 110° watchful eye
+2. Whisper-low power draw
+3. Adjustable delay logic
+
+---
+
+### 🕹️ Super Remote Hub (S15Pro)
+
+[Remote Hub](image)
+
+Give every ‘dumb’ appliance a brain. One puck, unlimited control.
+
+ **Feels like** : upgrading your old fan & TV without replacing them.**Core features**
+
+1. Built-in temp & humidity guru
+2. Multi-directional IR blaster
+3. One-tap scene switch
+
+---
+
+### ❄️ Air-Conditioner Controller (S16Pro)
+
+[AC Controller](image)
+
+Your AC, finally tuned to you—not the other way round.
+
+**Benefits**
+• Snooze at the perfect temp
+• Slash cooling costs automatically
+• Voice-adjust without remotes
+
+**Core features**
+
+1. Touch + app + voice triple control
+2. Smart schedules & geofence
+3. Live LCD feedback
+
+---
+
+### 🛸 Universal Remote Control (UFO-R1)
+
+[UFO Remote](image)
+
+One orb to command them all—TVs, speakers, even that vintage Hi-Fi.
+
+**Benefits**
+• Declutter coffee-table remotes
+• Start Netflix with a whisper
+• Future-proof IR library
+
+**Core features**
+
+1. 360° multi-beam reach
+2. 15-m straight-line power
+3. Simple app learning mode
+
+---
+
+### 🔌 Smart Power Strip (WPS20-EU)
+
+[Power Strip](image)
+
+Turn an outlet into a genius. Measure, control, and fast-charge—per socket.
+
+**Benefits**
+• Kill vampire power in one tap
+• Keep routers alive through outages
+• Charge devices twice as fast
+
+**Core features**
+
+1. Individually switched outlets
+2. Type-C & USB fast ports
+3. Memory recovery after power loss
+
+---
+
+### 🧲 Smart Plug (EU/UK)
+
+[Smart Plug](image)
+
+The simplest upgrade: plug in, bingo—smart control & live energy stats.
+
+**Benefits**
+• Turn anything on with “Heyzack”
+• See which gadgets guzzle power
+• Automate on sunrise, timers, or presence
+
+**Core features**
+
+1. 16 A muscle (EU) / 13 A (UK)
+2. Energy metering option
+3. Voice + app + schedule
+
+---
+
+### 🐾 Pet Feeder & Fountain (F17-C + W8)
+
+[Pet Feeder](image)
+
+Because fur-kids deserve a butler too—auto meals & flowing fresh water.
+
+**Benefits**
+• Never miss a feeding, even on late nights
+• See & talk to pets via HD cam
+• Quiet fountain keeps them hydrated & happy
+
+**Core features**
+
+1. 4 L airtight food vault
+2. Triple-filter water purity
+3. Privacy shutter for camera
+
+---
+
+[BLOCK: TEXT ONLY]
+
+## 🤖 Automation Playbook
+
+### 💰 Energy-Savings (3)
+
+1. **Sun-Chill Mode** – Solar Cam reports peak sunlight → AC Controller eases cooling → Power Strip tracks drop in watts.
+2. **Ghost-Power Buster** – Motion Sensor spots empty house at midnight → Smart Plugs + Strip shut down standby devices.
+3. **Morning Warm-Up** – PIR senses early riser → AC Controller pre-heats room while Power Strip powers coffee machine.
+
+### 🛡️ Security (3)
+
+1. **Front-Line Shield** – Doorbell detects stranger → Security Cam auto-records → Door/Window Sensors lock status checked.
+2. **Away-Guard Sweep** – Presence Sensor sees no motion for 30 min + Door/Window closed → All cams arm, alert mode on.
+3. **Package Guardian** – 2K Doorbell spots delivery → Motion Sensor verifies drop-off → Power Strip flashes hallway light.
+
+### 😌 Comfort (3)
+
+1. **Cinema Bliss** – Voice "Movie time" → UFO Remote dims TV backlight, Strip turns on soundbar, Sensors keep lights low.
+2. **Pet-Care Siesta** – Feeder schedules meal → Presence Sensor confirms pet area occupied → AC Controller sets comfy temp.
+3. **Welcome Glow** – Door Sensor opens at dusk → Power Strip + Plugs light pathway, play soft playlist via Hub speaker.
+
+---
+
+[BLOCK: TWO COLUMNS]
+
+## 🎁 Pledge Tiers & Perks
+
+Choose your Heyzack experience. All tiers include the Heyzack Hub and access to the app.
+
+---
+
+ **Tier 1: The Essentials Kit** **$199** (35% off $299 MSRP)*For apartments and starter homes.*
+
+* 1x Heyzack Hub
+* 1x 2K Video Doorbell
+* 2x Door & Window Sensor
+* 1x Smart Plug
+* ***Early Bird Perk:*** The first 200 backers get an extra Smart Plug for free!
+
+---
+
+ **Tier 2: The Security Kit** **$299** (40% off $499 MSRP)*Total awareness for the family home.*
+
+* Everything in **The Essentials Kit**
+* 1x Battery Solar Camera
+* 1x PIR Motion Sensor
+* 1x Smart Power Strip
+* ***Early Bird Perk:*** The first 150 backers get an extra Battery Solar Camera!
+
+---
+
+ **Tier 3: The Total Home Kit** **$449** (45% off $799 MSRP)*The ultimate AI-powered experience.*
+
+* Everything in **The Security Kit**
+* 1x Universal Remote Control
+* 1x AC Controller
+* 1x Pet Feeder & Fountain
+* ***Early Bird Perk:*** The first 100 backers get a lifetime subscription to Heyzack Premium Cloud (a $99/year value)!
+
+---
+
+[BLOCK: TEXT & IMAGE SINGLE COLUMN]
+
+## 👨‍💻 Our Story
+
+Heyzack was born from a simple frustration: smart homes felt more complicated than smart. We're a team of engineers, designers, and homeowners who believe technology should disappear into the background, working for you, not the other way around. After two years of development and testing in our own homes, we're ready to share Heyzack with the world.
+
+* **Follow our journey:** [OurWebsite.com](https://example.com/) | [Instagram](https://instagram.com/) | [Twitter](https://twitter.com/)
+
+---
+
+[BLOCK: TEXT ONLY]
+
+## 📣 Early-User Stories
+
+> “Installation took me 25 minutes. Now the porch light, thermostat, and locks all just happen.”
+> — Maya C., Beta tester
+
+> “I cut my power bill by 22 % the first month. That alone pays for the kit.”
+> — Jordan L., Pilot homeowner
+
+> “My parents finally have a smart-home system they understand. They just talk to it.”
+> — Rina S., Caregiver
+
+---
+
+[BLOCK: CTA FORM]
+
+## 🚀 Call to Action
+
+Help us launch the future of effortless living.
+
+1. **Click the green “Back this project” button** to reserve your Heyzack kit at the exclusive Kickstarter price.
+2. **Want more details or volume pricing?** Visit our partner page at [**heyzack.ai**](https://heyzack.ai/) and drop your email — we’ll personally reach out with launch perks.
+
+Together, let’s make every home intuitive, secure, and energy-wise. Join the Heyzack movement today!
+
+---
+
+[BLOCK: TEXT ONLY]
+
+## 🚧 Risks & Challenges
+
+Bringing a hardware product to life is a complex journey. We've spent two years de-risking our process and have partnered with experienced manufacturers, but unforeseen challenges can still arise.
+
+* **Supply Chain:** Global supply chains can be unpredictable. We have secured our primary components and have backup suppliers, but delays are a possibility. We've built a 3-month buffer into our timeline to account for this.
+* **Manufacturing:** Minor variations in manufacturing can occur. Our team will be on-site for the initial production run to ensure the highest quality standards are met.
+* **Fulfillment:** Shipping to over 50 countries has logistical hurdles. We are partnering with a fulfillment expert who has a proven track record with Kickstarter campaigns to ensure smooth delivery.
+
+We are committed to full transparency. If any issues arise, we promise to communicate clearly and frequently with you, our backers, every step of the way. Your trust is our most important asset.
