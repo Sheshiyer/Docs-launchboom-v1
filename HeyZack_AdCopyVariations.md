@@ -1,102 +1,79 @@
-# HeyZack Smart Home Kit - Ad Copy Variations by Campaign Phase
-
-## Phase 1: Pre-Launch Awareness (30 Days Before)
-
-### **Hook Variations - Problem Awareness**
-
-#### **Ad 1A: The Smart Home Disaster**
-**Headline:** "I spent $4,000 on smart home devices. Here's what went wrong."
-**Description:** David's $4,000 investment made his life MORE complicated, not less. 23 devices, 8 apps, zero harmony. See how HeyZack solves the chaos with one intelligent system.
-**CTA:** Get Early Access
-**Target:** Smart home owners, tech enthusiasts
-
-#### **Ad 1B: The Energy Bill Shock**
-**Headline:** "My 'smart' home costs me $340/month in electricity"
-**Description:** Smart devices that can't coordinate = higher bills. HeyZack's AI learns your patterns and automatically optimizes for savings. Beta testers save $1,200+ annually.
-**CTA:** Join the Waitlist
-**Target:** Energy-conscious homeowners
-
-#### **Ad 1C: The Security Gap**
-**Headline:** "Your smart home has a blind spot (and burglars know it)"
-**Description:** Individual devices create security gaps. HeyZack's AI Guardian sees everything, learns your patterns, and protects what matters most.
-**CTA:** Learn More
-**Target:** Security-focused families
-
-### **Social Proof Variations**
-
-#### **Ad 2A: Beta Tester Results**
-**Headline:** "347 beta families can't be wrong"
-**Description:** Average savings: $1,247/year. Average setup time: 12 minutes. Average satisfaction: 9.7/10. See why families are switching to intelligent home automation.
-**CTA:** Get Early Bird Access
-**Target:** Data-driven decision makers
-
-#### **Ad 2B: Expert Endorsement**
-**Headline:** "Why smart home experts choose HeyZack"
-**Description:** "Finally, a system that actually learns and adapts. This is what smart homes should have been from day one." - TechCrunch Review
-**CTA:** Read Full Review
-**Target:** Tech industry professionals
+# HeyZack Kickstarter Ad Copy – Aligned with Campaign Messaging
 
 ---
 
-## Phase 2: Pre-Launch Excitement (14 Days Before)
-
-### **Urgency & Exclusivity Variations**
-
-#### **Ad 3A: VIP Access**
-**Headline:** "VIP Early Access: 40% off HeyZack Smart Kits"
-**Description:** Limited to first 500 backers. Skip the waitlist, secure your kit, and save $200+ on the future of home automation.
-**CTA:** Claim VIP Spot
-**Target:** Early adopters, deal seekers
-
-#### **Ad 3B: Launch Countdown**
-**Headline:** "14 days until HeyZack changes smart homes forever"
-**Description:** The wait is almost over. Join 12,000+ families ready to experience true home intelligence. Early bird pricing ends at launch.
-**CTA:** Reserve Your Kit
-**Target:** Waitlist subscribers
-
-#### **Ad 3C: Behind the Scenes**
-**Headline:** "Inside HeyZack: How we solved the smart home problem"
-**Description:** 3 years of AI development. 347 beta families. One breakthrough: a home that actually understands you. See the technology in action.
-**CTA:** Watch Demo
-**Target:** Tech enthusiasts, engineers
-
-### **Value Proposition Variations**
-
-#### **Ad 4A: ROI Focus**
-**Headline:** "This $299 device pays for itself in 4 months"
-**Description:** HeyZack's AI optimization saves the average family $1,247 annually. That's a 416% ROI in year one, plus priceless peace of mind.
-**CTA:** Calculate Your Savings
-**Target:** Budget-conscious families
-
-#### **Ad 4B: Time Savings**
-**Headline:** "Get 3 hours of your week back"
-**Description:** No more app juggling. No more manual adjustments. HeyZack learns your routines and handles everything automatically. Life, simplified.
-**CTA:** See How It Works
-**Target:** Busy professionals, parents
+## 🎯 Core Messaging Angles
+*   **AI-Powered Automation:** Heyzack isn't just smart, it's intelligent. The AI brain syncs every device for you.
+*   **Voice-First Control:** “Just say it, and it’s done.” No apps, no fuss.
+*   **Tangible ROI:** Pays for itself in months via energy savings (up to 30%).
+*   **Total Home Solution:** One kit for security, comfort, and savings.
+*   **Kickstarter Exclusivity:** Early-bird pricing (up to 45% off) and limited-time perks.
 
 ---
 
-## Phase 3: Launch Week (Days 1-7)
+## 📢 Ad Set 1: Problem & Solution (Top of Funnel)
 
-### **Launch Momentum Variations**
+#### **Ad 1A: The Voice-First Revolution**
+*   **Headline:** Your Smart Home Is Dumb. Make It Listen.
+*   **Description:** Stop juggling apps. Heyzack’s AI hub unifies your home, so you can control everything—lights, security, climate—with just your voice. Save up to 30% on energy bills automatically. 
+*   **CTA:** Back on Kickstarter & Save 45%
+*   **Visual:** GIF showing a voice command waveform transforming into icons for light, lock, and AC.
 
-#### **Ad 5A: Launch Success**
-**Headline:** "$500K raised in 48 hours: HeyZack is here"
-**Description:** The response has been incredible. Join 2,000+ backers who've already secured their intelligent home system. Early bird pricing won't last long.
-**CTA:** Back Now - Save 40%
-**Target:** Social proof seekers
+#### **Ad 1B: The ROI Hook**
+*   **Headline:** This $199 Smart Kit Pays for Itself in 5 Months.
+*   **Description:** Stop wasting money on vampire power and inefficient climate control. Heyzack’s AI learns your habits and cuts energy bills by up to 30%. Get total home security and comfort that puts money back in your pocket.
+*   **CTA:** See How Much You’ll Save
+*   **Visual:** Infographic showing the ROI timeline for the Essentials Kit.
 
-#### **Ad 5B: Limited Quantity**
-**Headline:** "Early Bird Alert: 156 units remaining"
-**Description:** At this pace, early bird pricing will be gone by tomorrow. Don't miss your chance to save $200 on the future of home automation.
-**CTA:** Secure Your Kit
-**Target:** FOMO-driven buyers
+#### **Ad 1C: The Security Blind Spot**
+*   **Headline:** Your Security Camera Only Records Crime. Heyzack Helps Prevent It.
+*   **Description:** Don’t just record a break-in—deter it. Heyzack’s AI links your cameras, sensors, and lights to create an active defense system that responds to threats in real-time. True peace of mind is finally here.
+*   **CTA:** Discover AI-Powered Security
+*   **Visual:** Split-screen: left shows a static camera feed; right shows Heyzack flashing lights and sending an alert.
 
-#### **Ad 5C: Feature Unlocks**
-**Headline:** "Funding unlocked: Free voice recognition for all backers"
-**Description:** We hit $500K! Every backer now gets advanced voice recognition at no extra cost. Next unlock at $750K: outdoor intelligence.
-**CTA:** Join the Campaign
-**Target:** Value-conscious backers
+---
+
+## 📢 Ad Set 2: Features & Benefits (Middle of Funnel)
+
+#### **Ad 2A: The Automation Playbook**
+*   **Headline:** “Heyzack, Movie Time.” Watch Your Whole Room Transform.
+*   **Description:** With Heyzack, one phrase can dim the lights, turn on the TV and soundbar, and lower the AC. Explore our Automation Playbook and see how our AI-powered kit makes life magical. Live on Kickstarter now.
+*   **CTA:** Explore Automations
+*   **Visual:** Short video showing the “Movie Night” automation in action.
+
+#### **Ad 2B: The Total Home Kit**
+*   **Headline:** One Kit. Zero Hassle. Total Home Control.
+*   **Description:** Stop buying devices that don’t talk to each other. The Heyzack Total Home Kit includes everything you need for security, savings, and comfort, all powered by a central AI brain. Back us on Kickstarter and get it for 45% off MSRP.
+*   **CTA:** See What’s Inside the Kit
+*   **Visual:** A stylish flat-lay of all the devices included in the Total Home Kit.
+
+#### **Ad 2C: The Privacy Promise**
+*   **Headline:** Big Tech Is Listening. Heyzack Minds Its Own Business.
+*   **Description:** Your home data should be yours alone. Heyzack’s AI processes commands on-device, keeping your life private and secure. No data mining, no creepy ads. Just a smarter home that respects you.
+*   **CTA:** Learn About Our Privacy-First AI
+*   **Visual:** Graphic showing a lock icon over a house, with data streams staying inside.
+
+---
+
+## 📢 Ad Set 3: Urgency & Call to Action (Bottom of Funnel)
+
+#### **Ad 3A: The Early Bird Perk**
+*   **Headline:** Last Chance: Get a FREE Security Camera!
+*   **Description:** Our Early Bird perks are almost gone! Back the Heyzack Security Kit on Kickstarter today and get an extra Battery Solar Camera (a $99 value) for free. Don’t miss out on the smartest home deal of the year.
+*   **CTA:** Claim Your Free Camera
+*   **Visual:** Image of the Security Kit with an extra camera highlighted with a “FREE” badge.
+
+#### **Ad 3B: The Funding Goal**
+*   **Headline:** We’re 75% Funded! Help Us Reach Our $200k Goal!
+*   **Description:** The response has been incredible! Thanks to backers like you, we’re close to bringing Heyzack to life. Every pledge gets us closer to our goal and unlocks the future of home automation. Join the movement today.
+*   **CTA:** Back Our Project
+*   **Visual:** The Kickstarter funding bar showing progress towards the $200,000 goal.
+
+#### **Ad 3C: The Final Countdown**
+*   **Headline:** 48 Hours Left to Save 45% on a Smarter Home.
+*   **Description:** This is it. The Heyzack Kickstarter campaign ends in 48 hours, and our exclusive early-bird pricing disappears forever. Secure your AI-powered smart home kit now before it’s too late.
+*   **CTA:** Shop Final Hours
+*   **Visual:** A countdown clock graphic over a hero shot of the Heyzack Hub.
 
 ### **Social Validation Variations**
 
