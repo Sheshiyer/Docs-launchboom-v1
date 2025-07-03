@@ -37,7 +37,7 @@
 **Visual Elements**:
 ```
 [HEADER SECTION - 600px width]
-Background: HeyZack Deep Blue (#1B2951) gradient
+Background: HeyZack Charcoal (#1D1D1B) gradient
 Height: 200px
 
 [LOGO PLACEMENT]
@@ -47,7 +47,7 @@ Size: 180px width maximum
 
 [TAGLINE]
 "Your Home, In Sync"
-Font: 24px, white, center-aligned
+Font: 24px, Brinnan-Light, white, center-aligned
 Position: Below logo, 20px spacing
 
 [HERO IMAGE]
@@ -78,17 +78,17 @@ Border radius: 8px
 Shadow: Subtle drop shadow
 
 [CONTENT STRUCTURE]
-Headline: 28px, HeyZack Deep Blue, bold
-Subheadline: 18px, Charcoal Gray, regular
-Body text: 16px, Charcoal Gray, line height 1.6
+Headline: 28px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
+Subheadline: 18px, Avenir-Light, HeyZack Charcoal (#1D1D1B)
+Body text: 16px, Avenir-Light, HeyZack Charcoal (#1D1D1B), line height 1.6
 Spacing: 24px between sections
 
 [CTA BUTTON]
-Background: Warm Gold (#F4A261)
-Text: White, 16px, bold
+Background: HeyZack Charcoal (#1D1D1B)
+Text: White, 16px, Brinnan-Bold
 Padding: 16px 32px
 Border radius: 6px
-Hover state: Darker gold (#E09145)
+Hover state: Lighter charcoal (#2D2D2B)
 ```
 
 ### Template 3: Campaign Update Newsletter
@@ -192,7 +192,7 @@ Border radius: 8px
 **Content Structure**:
 ```
 [EDUCATIONAL HEADER]
-Background: Soft Green (#2A9D8F) gradient
+Background: HeyZack Charcoal (#1D1D1B) gradient
 Height: 120px
 Icon: Education/lightbulb, 64x64px, white
 Title: "Smart Home Tips" 24px, white, bold
@@ -201,18 +201,18 @@ Title: "Smart Home Tips" 24px, white, bold
 Numbered list format
 Background alternating: White and Light Gray
 Padding: 32px
-Border-left: 4px solid Soft Green
+Border-left: 4px solid HeyZack Charcoal (#1D1D1B)
 
 [TIP STRUCTURE]
-Number: Large, 36px, Soft Green, bold
-Title: 20px, HeyZack Deep Blue, bold
-Content: 16px, Charcoal Gray, paragraph format
+Number: Large, 36px, HeyZack Charcoal (#1D1D1B), bold
+Title: 20px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
+Content: 16px, Avenir-Light, HeyZack Charcoal (#1D1D1B), paragraph format
 Image: 200x150px, right-aligned on desktop
 
 [RELATED LINKS]
 Background: Light Gray (#F8F9FA)
 Padding: 24px
-Links: Soft Green color, underlined
+Links: HeyZack Charcoal (#1D1D1B) color, underlined
 Layout: Horizontal list with separators
 ```
 
@@ -220,13 +220,13 @@ Layout: Horizontal list with separators
 
 ### Font Hierarchy
 
-**Primary Font**: Inter or system font stack
-- Headlines (H1): 32px, bold, HeyZack Deep Blue
-- Subheadings (H2): 24px, semi-bold, HeyZack Deep Blue
-- Section Headers (H3): 20px, bold, Charcoal Gray
-- Body Text: 16px, regular, Charcoal Gray
-- Captions: 14px, regular, Light Gray
-- Button Text: 16px, bold, White
+**Primary Font**: Brinnan and Avenir font stack
+- Headlines (H1): 32px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
+- Subheadings (H2): 24px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
+- Section Headers (H3): 20px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
+- Body Text: 16px, Avenir-Light, HeyZack Charcoal (#1D1D1B)
+- Captions: 14px, Avenir-Light, Light Gray
+- Button Text: 16px, Brinnan-Bold, White
 
 ### Line Height and Spacing
 - Headlines: 1.2 line height
@@ -244,35 +244,35 @@ Layout: Horizontal list with separators
 ## COLOR SYSTEM
 
 ### Primary Colors
-- **HeyZack Deep Blue**: #1B2951 (headers, CTAs, branding)
+- **HeyZack Charcoal**: #1D1D1B (headers, CTAs, branding)
 - **Pure White**: #FFFFFF (backgrounds, text on dark)
 - **Charcoal Gray**: #2C3E50 (body text, secondary elements)
 
 ### Secondary Colors
-- **Warm Gold**: #F4A261 (accent, CTAs, highlights)
-- **Soft Green**: #2A9D8F (success, progress, positive actions)
 - **Light Gray**: #F8F9FA (backgrounds, subtle sections)
+- **Medium Gray**: #6C757D (secondary text, borders)
+- **White**: #FFFFFF (backgrounds, contrast elements)
 
 ### Usage Guidelines
-- Use Deep Blue sparingly for maximum impact
+- Use HeyZack Charcoal for headers, CTAs, and primary branding elements
 - White backgrounds for main content areas
 - Light Gray for section breaks and subtle backgrounds
-- Warm Gold for primary CTAs and important highlights
-- Soft Green for progress indicators and positive messaging
+- Medium Gray for secondary text and borders
+- Maintain high contrast for accessibility
 
 ## BUTTON AND CTA DESIGN
 
 ### Primary CTA Button
 ```
-Background: Warm Gold (#F4A261)
-Text: White, 16px, bold
+Background: HeyZack Charcoal (#1D1D1B)
+Text: White, 16px, Brinnan-Bold
 Padding: 16px 32px
 Border radius: 6px
 Border: None
 Shadow: 0 2px 4px rgba(0,0,0,0.1)
 
 Hover State:
-Background: #E09145 (darker gold)
+Background: #2D2D2B (lighter charcoal)
 Shadow: 0 4px 8px rgba(0,0,0,0.15)
 Transition: 0.2s ease
 ```
@@ -280,25 +280,25 @@ Transition: 0.2s ease
 ### Secondary CTA Button
 ```
 Background: Transparent
-Text: HeyZack Deep Blue, 16px, bold
+Text: HeyZack Charcoal (#1D1D1B), 16px, Brinnan-Bold
 Padding: 14px 30px
-Border: 2px solid HeyZack Deep Blue
+Border: 2px solid HeyZack Charcoal (#1D1D1B)
 Border radius: 6px
 
 Hover State:
-Background: HeyZack Deep Blue
+Background: HeyZack Charcoal (#1D1D1B)
 Text: White
 Transition: 0.2s ease
 ```
 
 ### Text Link Styling
 ```
-Color: Soft Green (#2A9D8F)
+Color: HeyZack Charcoal (#1D1D1B)
 Text decoration: Underline
-Font weight: Regular
+Font weight: Avenir-Light
 
 Hover State:
-Color: #238B7A (darker green)
+Color: #2D2D2B (lighter charcoal)
 Text decoration: None
 ```
 

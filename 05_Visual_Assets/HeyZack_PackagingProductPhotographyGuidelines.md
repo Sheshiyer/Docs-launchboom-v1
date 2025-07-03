@@ -14,14 +14,14 @@
 
 **Design Philosophy**: Minimalist premium unboxing experience
 **Color Palette**: 
-- Primary: HeyZack Deep Blue (#1B2951)
+- Primary: HeyZack Charcoal (#1D1D1B)
 - Secondary: Pure White (#FFFFFF)
-- Accent: Warm Gold (#F4A261) for premium details
+- Accent: Light Gray (#F8F9FA) for subtle details
 
 **Packaging Structure**:
 ```
 [OUTER SHIPPING BOX]
-Color: HeyZack Deep Blue
+Color: HeyZack Charcoal (#1D1D1B)
 Finish: Matte with spot UV logo
 Size: Optimized for product protection
 Branding: Minimal HeyZack logo, white
@@ -44,8 +44,8 @@ Inserts: Branded quick-start guide, premium feel
 ```
 [BOX OPENING]
 Reveal: HeyZack logo embossed on inner lid
-Message: "Your Home, In Sync" in elegant typography
-Color: Warm Gold foil on white background
+Message: "Your Home, In Sync" in Brinnan-Light typography
+Color: HeyZack Charcoal (#1D1D1B) foil on white background
 Feeling: Premium, anticipatory, sophisticated
 ```
 
@@ -254,9 +254,9 @@ Brand Alignment: Sophisticated, premium feel
 
 **Color Palette for Shoots**:
 ```
-Primary: HeyZack Deep Blue accents
+Primary: HeyZack Charcoal (#1D1D1B) accents
 Neutral: Whites, light grays, natural wood tones
-Accent: Warm gold details sparingly
+Accent: Light gray details sparingly
 Avoid: Bright, competing colors
 Textures: Matte finishes, natural materials
 ```

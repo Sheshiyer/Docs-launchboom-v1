@@ -10,35 +10,36 @@
 ## COLOR PALETTE
 
 ### Primary Colors
-- **HeyZack Deep Blue**: #1B2951 (Trust, security, intelligence)
+- **HeyZack Charcoal**: #1D1D1B (Sophistication, premium, intelligence)
 - **Pure White**: #FFFFFF (Clarity, simplicity, premium)
-- **Charcoal Gray**: #2C3E50 (Sophistication, reliability)
-
-### Secondary Colors
-- **Warm Gold**: #F4A261 (Premium accent, intelligent savings)
-- **Soft Green**: #2A9D8F (Comfort, harmony, efficiency)
 - **Light Gray**: #F8F9FA (Background, subtle contrast)
 
 ### Usage Guidelines
-- Primary blue for main branding elements
-- White for clean backgrounds and text
-- Charcoal for secondary text and UI elements
-- Gold sparingly for premium highlights
-- Green for comfort/savings messaging
+- Primary charcoal (#1D1D1B) for main branding elements, logos, and primary text
+- White for clean backgrounds and contrast
+- Light gray for backgrounds and subtle elements
+- Maintain high contrast ratios for accessibility
+- Use charcoal consistently across all brand touchpoints
 
 ## TYPOGRAPHY
 
-### Primary Typeface: Modern Sans-Serif
-**Recommended**: Inter, Poppins, or Montserrat
-- Clean, readable, contemporary
-- Professional yet approachable
+### Primary Typeface: Brinnan Family
+**Primary**: Brinnan-Bold, Brinnan-Light
+- Sophisticated, premium brand typeface
+- Excellent for headlines and brand messaging
+- Distinctive character that reinforces brand identity
+
+### Secondary Typeface: Avenir
+**Secondary**: Avenir-Light
+- Clean, readable for body text
+- Professional and approachable
 - Excellent screen readability
 
 ### Hierarchy
-- **Headlines**: Bold, 32-48px, HeyZack Deep Blue
-- **Subheadings**: Semi-bold, 24-32px, Charcoal Gray
-- **Body Text**: Regular, 16-18px, Charcoal Gray
-- **Captions**: Regular, 14px, Light Gray
+- **Headlines**: Brinnan-Bold, 32-48px, HeyZack Charcoal (#1D1D1B)
+- **Subheadings**: Brinnan-Light, 24-32px, HeyZack Charcoal (#1D1D1B)
+- **Body Text**: Avenir-Light, 16-18px, HeyZack Charcoal (#1D1D1B)
+- **Captions**: Avenir-Light, 14px, Light Gray (#F8F9FA)
 
 ### Voice in Typography
 - Avoid overly decorative fonts
@@ -51,7 +52,7 @@
 ### Logo Variations Needed
 - Primary logo (full color)
 - White version (for dark backgrounds)
-- Single color version (HeyZack Deep Blue)
+- Single color version (HeyZack Charcoal #1D1D1B)
 - Horizontal and stacked layouts
 - Favicon/app icon version
 
@@ -94,7 +95,7 @@
 - Minimalist line icons
 - Consistent stroke width (2px)
 - Rounded corners for friendliness
-- HeyZack Deep Blue or Charcoal Gray
+- HeyZack Charcoal (#1D1D1B) or Light Gray (#F8F9FA)
 
 ### Icon Categories
 - Security: Shield, lock, camera, gate
@@ -132,7 +133,7 @@
 ### Email Templates
 - Clean header with logo
 - Single-column layout for mobile
-- Clear CTAs with HeyZack Deep Blue
+- Clear CTAs with HeyZack Charcoal (#1D1D1B)
 - Consistent spacing and typography
 
 ### Social Media

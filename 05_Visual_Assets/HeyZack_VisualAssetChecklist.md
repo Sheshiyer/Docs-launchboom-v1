@@ -155,19 +155,19 @@
 
 ### Color Palette
 - [ ] **Primary Colors**
-  - HeyZack Blue: #1E3A8A
-  - Premium Gold: #F59E0B
-  - Clean White: #FFFFFF
+  - HeyZack Charcoal: #1D1D1B
+  - Pure White: #FFFFFF
+  - Light Gray: #F8F9FA
 
 - [ ] **Secondary Colors**
-  - Warm Gray: #6B7280
-  - Success Green: #10B981
-  - Alert Orange: #F97316
+  - Medium Gray: #6C757D
+  - Charcoal Gray: #2C3E50
+  - Off-White: #FAFAFA
 
 ### Typography
-- [ ] **Primary Font**: Inter (Headings)
-- [ ] **Secondary Font**: Source Sans Pro (Body)
-- [ ] **Accent Font**: Playfair Display (Premium touches)
+- [ ] **Primary Font**: Brinnan-Bold (Headings)
+- [ ] **Secondary Font**: Brinnan-Light (Subheadings)
+- [ ] **Body Font**: Avenir-Light (Body text and captions)
 
 ---
 
@@ -232,8 +232,8 @@
 - [ ] **Accessibility**: Alt text, captions, color contrast compliance
 
 ### Brand Consistency
-- [ ] **Color Accuracy**: Hex codes match brand guidelines
-- [ ] **Typography**: Consistent font usage across all assets
+- [ ] **Color Accuracy**: HeyZack Charcoal (#1D1D1B) and supporting grays match brand guidelines
+- [ ] **Typography**: Consistent Brinnan and Avenir font usage across all assets
 - [ ] **Voice**: Sophisticated, calm, premium positioning
 - [ ] **Imagery Style**: Clean, modern, family-focused
 

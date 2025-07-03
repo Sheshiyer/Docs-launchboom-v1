@@ -27,7 +27,7 @@
 **Primary Focus (Level 1)**:
 ```
 [HERO HEADLINE]
-Font: 48px, bold, HeyZack Deep Blue (#1B2951)
+Font: 48px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Text: "Your Intelligent Home, Perfectly in Sync"
 Position: Center-aligned, 60px from top
 Max width: 800px
@@ -37,7 +37,7 @@ Line height: 1.2
 **Secondary Focus (Level 2)**:
 ```
 [SUBHEADLINE]
-Font: 24px, regular, Charcoal Gray (#2C3E50)
+Font: 24px, Brinnan-Light, HeyZack Charcoal (#1D1D1B)
 Text: "Complete smart home integration with AI companion"
 Position: Center-aligned, 24px below headline
 Max width: 600px
@@ -53,18 +53,18 @@ Style: Premium lifestyle photography
 Overlay: Subtle gradient for text readability
 
 [PRIMARY CTA BUTTON]
-Background: Warm Gold (#F4A261)
-Text: "Back This Project" - 18px, bold, white
+Background: HeyZack Charcoal (#1D1D1B)
+Text: "Back This Project" - 18px, Brinnan-Bold, white
 Size: 200x60px
 Position: Center-aligned, 40px below subheadline
-Shadow: 0 4px 12px rgba(244, 162, 97, 0.3)
+Shadow: 0 4px 12px rgba(29, 29, 27, 0.3)
 ```
 
 **Trust Indicators (Level 4)**:
 ```
 [CAMPAIGN STATS]
 Layout: Horizontal row, 3 columns
-Font: 16px, regular, Light Gray
+Font: 16px, Avenir-Light, Light Gray (#F8F9FA)
 Spacing: 40px between items
 Content: "$XXX,XXX raised" | "XXX backers" | "XX days left"
 
@@ -97,13 +97,13 @@ Border: Subtle shadow for elevation
 **Supporting Elements (Level 2)**:
 ```
 [VIDEO HEADLINE]
-Font: 32px, bold, HeyZack Deep Blue
+Font: 32px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Text: "See HeyZack in Action"
 Position: Above video, center-aligned
 Spacing: 32px above video
 
 [VIDEO DESCRIPTION]
-Font: 18px, regular, Charcoal Gray
+Font: 18px, Avenir-Light, HeyZack Charcoal (#1D1D1B)
 Text: Brief video summary and benefits
 Position: Below video, center-aligned
 Max width: 600px
@@ -112,8 +112,8 @@ Max width: 600px
 **Call-to-Action (Level 3)**:
 ```
 [SECONDARY CTA]
-Background: Transparent with HeyZack Deep Blue border
-Text: "Learn More Below" - 16px, bold, HeyZack Deep Blue
+Background: Transparent with HeyZack Charcoal (#1D1D1B) border
+Text: "Learn More Below" - 16px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Size: 180x50px
 Position: Below video description
 ```
@@ -125,7 +125,7 @@ Position: Below video description
 **Visual Structure**:
 ```
 [SECTION HEADER]
-Font: 36px, bold, HeyZack Deep Blue
+Font: 36px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Text: "The HeyZack Promise"
 Position: Center-aligned, 80px top margin
 Spacing: 48px bottom margin
@@ -141,31 +141,31 @@ Alignment: Top-aligned content
 [PILLAR ICON]
 Size: 80x80px
 Style: Minimalist line icons
-Colors: Brand secondary colors
+Colors: HeyZack Charcoal (#1D1D1B)
 Position: Center-aligned in column
 
 [PILLAR HEADLINE]
-Font: 24px, bold, HeyZack Deep Blue
+Font: 24px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Position: 24px below icon, center-aligned
 Max width: 200px
 
 [PILLAR DESCRIPTION]
-Font: 16px, regular, Charcoal Gray
+Font: 16px, Avenir-Light, HeyZack Charcoal (#1D1D1B)
 Line height: 1.6
 Position: 16px below headline
 Max width: 280px
 
 [PILLAR BENEFITS LIST]
-Font: 14px, regular, Charcoal Gray
-Style: Bullet points with brand-colored bullets
+Font: 14px, Avenir-Light, HeyZack Charcoal (#1D1D1B)
+Style: Bullet points with charcoal-colored bullets
 Spacing: 8px between items
 ```
 
-### Color Coding System
+### Visual Consistency
 ```
-Security Pillar: HeyZack Deep Blue (#1B2951)
-Comfort Pillar: Soft Green (#2A9D8F)
-Savings Pillar: Warm Gold (#F4A261)
+All Pillars: HeyZack Charcoal (#1D1D1B)
+Consistent typography: Brinnan-Bold for headlines, Avenir-Light for body text
+Unified brand presentation across all pillars
 ```
 
 ## SECTION 4: SOCIAL PROOF
@@ -175,7 +175,7 @@ Savings Pillar: Warm Gold (#F4A261)
 **Section Structure**:
 ```
 [SOCIAL PROOF HEADER]
-Font: 32px, bold, HeyZack Deep Blue
+Font: 32px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Text: "Trusted by Smart Home Enthusiasts"
 Position: Center-aligned
 Spacing: 64px top margin, 48px bottom margin
@@ -196,16 +196,16 @@ Padding: 32px
 Shadow: 0 2px 8px rgba(0,0,0,0.08)
 
 [QUOTE TEXT]
-Font: 18px, italic, Charcoal Gray
+Font: 18px, italic, HeyZack Charcoal (#1D1D1B)
 Line height: 1.5
-Quote marks: Decorative, Warm Gold
+Quote marks: Decorative, HeyZack Charcoal (#1D1D1B)
 Max width: 400px
 
 [CUSTOMER INFO]
 Layout: Horizontal, photo + text
 Photo: 50x50px, circular crop
-Name: 16px, bold, HeyZack Deep Blue
-Title: 14px, regular, Light Gray
+Name: 16px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
+Title: 14px, Avenir-Light, Light Gray (#F8F9FA)
 Spacing: 24px above customer info
 ```
 
@@ -216,7 +216,7 @@ Background: Light Gray (#F8F9FA)
 Height: 80px
 Layout: 4 columns, center-aligned
 Content: Customer count, satisfaction rate, support rating
-Font: 24px numbers (bold), 14px labels (regular)
+Font: 24px numbers (Brinnan-Bold), 14px labels (Avenir-Light)
 ```
 
 ## SECTION 5: PRODUCT DETAILS
@@ -226,7 +226,7 @@ Font: 24px numbers (bold), 14px labels (regular)
 **Section Organization**:
 ```
 [DETAILS HEADER]
-Font: 36px, bold, HeyZack Deep Blue
+Font: 36px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Text: "Complete Smart Home Integration"
 Position: Center-aligned
 Spacing: 80px top margin, 56px bottom margin
@@ -250,17 +250,17 @@ Max width: 400px
 Spacing: 40px from image
 
 [FEATURE HEADLINE]
-Font: 28px, bold, HeyZack Deep Blue
+Font: 28px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Spacing: 16px bottom margin
 
 [FEATURE DESCRIPTION]
-Font: 16px, regular, Charcoal Gray
+Font: 16px, Avenir-Light, HeyZack Charcoal (#1D1D1B)
 Line height: 1.6
 Spacing: 24px bottom margin
 
 [FEATURE BENEFITS]
-Font: 14px, regular, Charcoal Gray
-Style: Checkmark list with Soft Green checkmarks
+Font: 14px, Avenir-Light, HeyZack Charcoal (#1D1D1B)
+Style: Checkmark list with charcoal checkmarks
 Spacing: 6px between items
 ```
 
@@ -271,7 +271,7 @@ Spacing: 6px between items
 **Section Structure**:
 ```
 [PRICING HEADER]
-Font: 36px, bold, HeyZack Deep Blue
+Font: 36px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Text: "Choose Your HeyZack Package"
 Position: Center-aligned
 Spacing: 80px top margin, 48px bottom margin
@@ -292,31 +292,31 @@ Padding: 32px
 Shadow: 0 4px 16px rgba(0,0,0,0.1)
 
 [POPULAR BADGE] (for featured tier)
-Background: Warm Gold (#F4A261)
-Text: "Most Popular" - 12px, bold, white
+Background: HeyZack Charcoal (#1D1D1B)
+Text: "Most Popular" - 12px, Brinnan-Bold, white
 Position: Top right corner
 Padding: 8px 16px
 Border radius: 0 12px 0 12px
 
 [TIER PRICE]
-Font: 48px, bold, HeyZack Deep Blue
+Font: 48px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Position: Top of card, center-aligned
 Spacing: 16px bottom margin
 
 [TIER NAME]
-Font: 24px, bold, Charcoal Gray
+Font: 24px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Position: Below price, center-aligned
 Spacing: 24px bottom margin
 
 [TIER FEATURES]
-Font: 14px, regular, Charcoal Gray
+Font: 14px, Avenir-Light, HeyZack Charcoal (#1D1D1B)
 Style: Checkmark list
 Spacing: 8px between items
 Max items: 6-8 key features
 
 [TIER CTA BUTTON]
-Background: Warm Gold (featured) or HeyZack Deep Blue
-Text: "Select This Reward" - 16px, bold, white
+Background: HeyZack Charcoal (#1D1D1B)
+Text: "Select This Reward" - 16px, Brinnan-Bold, white
 Size: Full width of card
 Height: 50px
 Position: Bottom of card
@@ -325,9 +325,9 @@ Position: Bottom of card
 ### Pricing Psychology Elements
 ```
 [SAVINGS INDICATOR]
-Text: "Save $XXX vs retail" - 14px, bold, Soft Green
+Text: "Save $XXX vs retail" - 14px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Position: Below tier name
-Background: Light green highlight
+Background: Light Gray (#F8F9FA) highlight
 
 [URGENCY INDICATOR]
 Text: "Limited: XXX left" - 12px, regular, red
@@ -342,7 +342,7 @@ Conditional display based on availability
 **Section Structure**:
 ```
 [FAQ HEADER]
-Font: 32px, bold, HeyZack Deep Blue
+Font: 32px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Text: "Frequently Asked Questions"
 Position: Center-aligned
 Spacing: 80px top margin, 48px bottom margin
@@ -356,7 +356,7 @@ Background: White
 **FAQ Item Design**:
 ```
 [FAQ QUESTION]
-Font: 18px, bold, HeyZack Deep Blue
+Font: 18px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Background: Light Gray (#F8F9FA)
 Padding: 20px 24px
 Border: 1px solid #E5E5E5
@@ -364,7 +364,7 @@ Cursor: Pointer
 Icon: Plus/minus toggle, right-aligned
 
 [FAQ ANSWER]
-Font: 16px, regular, Charcoal Gray
+Font: 16px, Avenir-Light, HeyZack Charcoal (#1D1D1B)
 Padding: 24px
 Background: White
 Border: 1px solid #E5E5E5 (left, right, bottom)
@@ -379,31 +379,31 @@ Display: Expandable/collapsible
 **Layout Structure**:
 ```
 [CTA SECTION]
-Background: HeyZack Deep Blue (#1B2951) gradient
+Background: HeyZack Charcoal (#1D1D1B) gradient
 Padding: 80px 40px
 Position: Full width
 
 [FINAL HEADLINE]
-Font: 36px, bold, white
+Font: 36px, Brinnan-Bold, white
 Text: "Join the Smart Home Revolution"
 Position: Center-aligned
 Spacing: 24px bottom margin
 
 [FINAL SUBHEADLINE]
-Font: 20px, regular, white
+Font: 20px, Avenir-Light, white
 Text: "Limited time early bird pricing"
 Position: Center-aligned
 Spacing: 32px bottom margin
 
 [FINAL CTA BUTTON]
-Background: Warm Gold (#F4A261)
-Text: "Back HeyZack Now" - 20px, bold, white
+Background: white
+Text: "Back HeyZack Now" - 20px, Brinnan-Bold, HeyZack Charcoal (#1D1D1B)
 Size: 250x70px
 Position: Center-aligned
-Shadow: 0 6px 20px rgba(244, 162, 97, 0.4)
+Shadow: 0 6px 20px rgba(255, 255, 255, 0.4)
 
 [URGENCY TEXT]
-Font: 14px, regular, white
+Font: 14px, Avenir-Light, white
 Text: "Campaign ends in XX days"
 Position: Below button, center-aligned
 Spacing: 16px top margin
