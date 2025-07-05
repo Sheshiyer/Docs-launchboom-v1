@@ -4,7 +4,12 @@
 
 This repository contains the complete set of customized LaunchBoom crowdfunding templates for the **HeyZack Smart Home Kit** campaign. All templates have been adapted for HeyZack's premium "Intelligent Guardian" positioning and sophisticated brand voice.
 
-## 📁 Folder Structure
+## 📁 Folder Structure (10 Main Categories)
+
+### 00_Wiki_Hub_README.md
+**Central navigation hub for the entire repository**
+- Quick access to all sections and key documents
+- Repository overview and navigation guide
 
 ### 01_Foundation/
 **Core brand and messaging documents that inform all other materials**
@@ -60,6 +65,18 @@ This repository contains the complete set of customized LaunchBoom crowdfunding 
 ### 08_Templates_Master/
 **Blank template files for future product customization**
 - *To be populated with generic LaunchBoom templates*
+
+### 09_Strategic_Analysis/
+**High-level strategic planning and market analysis documents**
+- `HeyZack_Business_Model_Canvas.md` - Complete business model framework
+- `HeyZack_Go-to-Market_Strategy_Stage1_Optimization.md` - Stage 1 market entry strategy
+- `HeyZack_Porters_Five_Forces_Analysis.md` - Competitive landscape analysis
+
+### 10_Reference_Materials/
+**Source documents and reference files**
+- `HEYZACK_Brand_Guidelines.pdf` - Official brand guidelines document
+- `HeyZack_Logo.svg` - Official HeyZack logo file
+- `AI_Ready_Business_Context.txt` - Business context for AI systems
 
 ## 🚀 Campaign Workflow
 

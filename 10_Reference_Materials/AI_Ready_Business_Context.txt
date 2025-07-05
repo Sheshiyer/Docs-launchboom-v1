@@ -1,0 +1,526 @@
+# AI-Ready Business Context Knowledge Base
+
+------ DOCUMENT OVERVIEW ------
+
+This document contains structured business context organized for AI utilization. The knowledge base is designed to enable consistent, accurate information retrieval and strategic alignment across all AI interactions.
+
+## Document Structure
+
+Information is organized into three main sections:
+
+1. Company-Level Information
+   - Company Strategy
+   - Market Insights
+   - Business Fundamentals
+
+2. Product-Specific Information
+   - Product Strategy
+   - Go-to-Market Approach
+   - Service Delivery
+
+3. Audience-Specific Information
+   - Customer Insights
+   - Messaging Framework
+   - Communication Guidelines
+
+### Data Point Format
+Each entry follows this structure:
+
+### [Data Point Name]
+
+#### Description:
+Brief explanation of what this data point represents
+
+#### Content:
+Primary, audience-facing information
+[For direct use in customer communications and public materials]
+
+#### Context:
+Additional background, rationale, and usage guidelines
+[For strategic understanding and internal planning]
+
+### Critical Notes
+- Follow field usage guidelines exactly
+- Maintain strategic alignment
+- Preserve information hierarchy
+
+------ KNOWLEDGE BASE CONTENT ------
+
+# 1. Company Foundation
+
+## 1.1. Company Tone of Voice
+
+#### Description:
+The defined personality and communication style that brings the brand to life through language. This establishes the consistent character, emotion, and linguistic approach used across all communications, defining how the company expresses itself to all audiences.
+
+#### Content:
+Transform environments with AI-powered solutions that meet needs and enhance efficiency. Communication style is clear, direct, and solutions-focused, using accessible language to explain complex technology. Voice maintains a professional yet approachable tone, balancing technical expertise with practical benefits. Messaging emphasizes transformation and enhancement while remaining grounded in concrete capabilities. Language is consistently forward-looking and empowering, focusing on how AI technology enables better living and working spaces.
+
+#### Context:
+The company's tone of voice reflects a strategic balance between technical authority and accessible innovation. The communication style is designed to bridge the gap between advanced AI technology and practical everyday benefits, making complex automation concepts approachable without oversimplifying their sophistication. This voice supports the business model by effectively communicating to both residential and commercial audiences while maintaining consistency across segments.
+
+## 1.2. Company Mission and Vision
+
+#### Description:
+The strategic declaration of an organization's fundamental purpose (mission) and future aspirations (vision). The mission articulates why the company exists and how it creates value today, while the vision describes what the organization aims to become in the future.
+
+#### Content:
+**Mission**: Create a seamlessly integrated smart home experience that anticipates your needs and empowers you to live a more intuitive, connected, and secure life.
+
+**Vision**: A home that works in perfect harmony with its inhabitants, simplifying complexity and creating moments of delight.
+
+**Tagline**: "Your Home, In Sync."
+
+#### Context:
+HeyZack's mission and vision centers on transforming living spaces through intelligent automation, with a focus on creating harmonious, intuitive environments. The company aims to make homes work in perfect sync with their inhabitants through AI-powered orchestration that anticipates needs and simplifies complexity. This strategic direction aligns with growing demands for intelligent home management and sustainable living solutions, positioning HeyZack at the intersection of AI technology and human-centered design.
+
+## 1.3. Brand Pillars
+
+#### Description:
+The core promises and value propositions that define the HeyZack brand identity and differentiate it from competitors.
+
+#### Content:
+**1. Total Security**
+- Core Message: Your home is your sanctuary
+- Benefit: End-to-end protection from front gate to cameras
+- Foundation: Absolute privacy and security
+- Campaign Emphasis: Peace of mind, protection, privacy
+
+**2. Seamless Comfort**
+- Core Message: Experience a home that anticipates your needs
+- Benefit: Proactive management of heating, lighting, environment
+- Foundation: Effortless living without manual control
+- Campaign Emphasis: Anticipatory intelligence, perfect environment
+
+**3. Intelligent Savings**
+- Core Message: Live smarter and save more
+- Benefit: Reduced energy bills without comfort compromise
+- Foundation: Smart energy optimization
+- Campaign Emphasis: Financial benefits, efficiency, sustainability
+
+#### Context:
+The brand pillars establish HeyZack's "Intelligent Guardian" positioning versus competitors' "Friend/Assistant" approach. This positioning emphasizes harmony and rhythm over companionship, silent proactive competence versus conversational interaction, and architectural design versus gadget aesthetic. The pillars create a comprehensive value proposition that addresses security, comfort, and financial benefits simultaneously.
+
+# 2. Product and Solution
+
+## 2.1. Product Description
+
+#### Description:
+The fundamental explanation of what the product is and how it delivers value at a high level.
+
+#### Content:
+HeyZack is the intelligent guardian for your home - a comprehensive smart home kit that transforms any house into a harmoniously connected, secure, and energy-efficient living space with quick and easy installation. The system includes an AI-powered Video Doorbell with facial recognition, solar-powered outdoor security cameras, comprehensive sensor suite (motion, door/window, temperature, humidity), smart hub with local processing, intelligent power management (smart plugs and power strips), climate control optimization, universal remote integration, and pet care automation. Unlike traditional smart home systems that require technical expertise or professional installation, HeyZack delivers professional-grade intelligence through a simple, user-friendly setup process.
+
+#### Context:
+The product definition establishes HeyZack as a comprehensive building automation platform that bridges traditional smart home systems with advanced AI capabilities. The core approach of combining physical IoT devices with intelligent software enables both immediate control and long-term optimization through machine learning. The solution's architecture, built around a central AI hub that coordinates multiple subsystems, allows for both standalone smart home implementations and full commercial building management.
+
+## 2.2. Problem Statement
+
+#### Description:
+The foundational articulation of the market-level problem or unmet need that drives demand for the product.
+
+#### Content:
+Building management and home automation systems are complex, inefficient, and fail to deliver optimal comfort and energy savings. Traditional systems require manual control, lack intelligent adaptation to usage patterns, and operate in silos rather than as unified ecosystems. This results in 30% energy waste in buildings, compromised security due to uncoordinated systems, and significant operational inefficiencies. The disconnected nature of current solutions means buildings cannot proactively optimize for occupancy, weather conditions, or user preferences, leading to unnecessary costs and reduced comfort.
+
+#### Context:
+The problem statement reveals fundamental inefficiencies in current building management approaches that create significant operational and financial impact across both residential and commercial sectors. The persistence of manual controls and lack of intelligent automation represents a systemic failure to leverage modern AI capabilities for optimizing building operations. The problem's scope spans multiple critical areas including energy management, security, comfort, and operational efficiency.
+
+# 3. Customer Insights
+
+## 3.1. Target Audience Profile
+
+#### Description:
+The source for comprehensive target audience definition, serving as the foundational framework for deep customer understanding.
+
+#### Content:
+**Primary Target**: Tech-savvy professionals and families
+- Value design, convenience, and security
+- Willing to invest in premium solutions
+- Frustrated with disparate smart devices
+- Seek integrated, sophisticated systems
+- Income: $75K+ (primary), $100K+ (early adopters)
+- Age: 30-50 years old
+- Education: College-educated professionals
+
+**Secondary Target**: Custom home builders and integrators
+- Need reliable, high-end smart home platforms
+- Value professional-grade solutions
+- Require seamless integration capabilities
+
+**Key Personas**:
+- **David Chen**: 38, $125K income, Senior Product Manager, $12K+ smart home investment, suffers from fragmentation fatigue
+- **Michael Rodriguez**: 42, $180K income, VP of Engineering, $18K+ smart home investment, executive image focus
+- **Sarah Kim**: 34, $140K income, Principal Engineer, $15K+ smart home investment, technical mastery seeker
+
+#### Context:
+The target audience definition reflects a dual-market approach aligned with HeyZack's AI automation solutions. The segmentation demonstrates clear product-market fit: the residential segment leverages accessible pricing and comprehensive features for individual homes, while the commercial segment addresses enterprise-scale needs with sophisticated building management capabilities. The audience selection strategically positions HeyZack in both consumer and commercial markets, allowing for diversified revenue streams and market presence.
+
+## 3.2. Customer Pains
+
+#### Description:
+The documentation of specific challenges, frustrations, and pain points experienced by customers that drive them to seek solutions.
+
+#### Content:
+Users face challenges with manual, inefficient building management that wastes time and energy. Property managers struggle with fragmented control systems, leading to higher operational costs and reduced comfort. Building owners experience difficulty maintaining optimal environmental conditions, resulting in tenant dissatisfaction and increased energy bills. Security management is complex and time-consuming, requiring constant manual monitoring. Facility managers waste hours coordinating maintenance tasks and responding to comfort complaints. Energy waste occurs due to inability to optimize consumption patterns in real-time. Integration of different building systems is complicated and often requires multiple interfaces and management tools.
+
+**Specific Smart Home Pains**:
+- Fragmentation fatigue: Managing 11+ different apps instead of natural conversation
+- Family usability crisis: Spouse and kids avoid complex app-based controls
+- Reliability anxiety: Automations fail 30% of the time
+- Maintenance burden: 3-4 hours weekly troubleshooting
+- Energy optimization failure: Devices compete rather than coordinate
+
+#### Context:
+The identified pain points reflect fundamental challenges in building automation and management that drive the need for intelligent solutions. These pains manifest across different stakeholder groups - from property managers to building owners and facility operators - each experiencing specific operational and efficiency challenges. The frequency and intensity of these pains increase with building size and complexity, creating a strong motivation for comprehensive automation solutions.
+
+# 4. Market Landscape
+
+## 4.1. Competitive Advantage
+
+#### Description:
+The identification of unique organizational strengths and capabilities that enable sustainable market differentiation.
+
+#### Content:
+AI-powered building management systems that learn and adapt to usage patterns, delivering superior automation and efficiency. Proprietary AI algorithms enable predictive climate control, smart security, and energy optimization that reduce consumption by up to 30%. The system's self-learning capabilities and integrated approach to building management create operational advantages through automated scheduling, predictive maintenance, and real-time optimization that competitors cannot easily replicate. Compliant with BAT TH 116 standards and eligible for energy savings certificate (CEE) programs, the technology platform combines climate intelligence, access control, and facility operations into a unified system that delivers measurable performance improvements.
+
+**Key Differentiators**:
+1. **Intelligent Guardian Positioning**: vs competitors' "Friend/Assistant" positioning
+2. **Quick and Easy Installation**: Professional-grade intelligence that installs in minutes, not hours
+3. **Comprehensive Kit Approach**: Complete 11-device ecosystem vs piecemeal device purchasing
+4. **Proactive AI Orchestration**: Advanced AI that learns and anticipates needs rather than simply responding to commands
+5. **Voice + Digital Life Integration**: Seamlessly bridges voice control with comprehensive digital life management
+
+#### Context:
+The competitive advantage stems from three core capability areas: 1) Advanced AI Implementation: Sophisticated AI algorithms that enable truly autonomous building management, going beyond simple automation to deliver predictive, learning-based control. 2) Integrated Systems Approach: Comprehensive platform that seamlessly integrates multiple building systems under a single AI-driven control system. 3) Standards-Based Innovation: Compliance with BAT TH 116 standards while qualifying for CEE programs, creating an operational framework that combines regulatory compliance with performance optimization.
+
+## 4.2. Competitive Landscape
+
+#### Description:
+Analysis of direct and indirect competitors in the smart home automation market.
+
+#### Content:
+**Direct Competitors**:
+- **Josh.ai**: Luxury market focus, $14,000+ systems with professional installation, "home's best friend" positioning, requires professional installation
+- **Control4**: Professional-grade systems, $5,000+ installations, complex setup, dealer-only distribution
+
+**Indirect Competitors**:
+- **Amazon Alexa**: $200-$1,000 total system cost, reactive automation, privacy concerns, massive device ecosystem
+- **Google Nest/Home**: $300-$800 total system cost, better conversational AI, privacy concerns, 50,000+ compatible devices
+- **Samsung SmartThings**: $400-$1,200 total system cost, platform-agnostic hub, complex setup, multi-protocol support
+- **Apple HomeKit**: $600-$1,500 total system cost, premium ecosystem, Apple device lock-in, excellent privacy
+
+**Market Positioning**:
+- HeyZack targets mid-market sweet spot ($399-$999) between DIY ($200-$800) and luxury ($14,000+)
+- "Intelligent Guardian" vs competitors' "Friend/Assistant" positioning
+- Proactive AI orchestration vs reactive automation
+- DIY setup vs professional installation requirement
+
+#### Context:
+The competitive landscape reveals a significant market gap between DIY solutions and luxury professional installations. HeyZack's positioning in the mid-market premium segment addresses customers wanting sophistication without professional installation requirements. The competitive analysis shows opportunities for differentiation through proactive AI, comprehensive kit approach, and accessible pricing while maintaining premium positioning.
+
+# 5. Market and Sales Approach
+
+## 5.1. Business Model
+
+#### Description:
+The essential framework defining how the organization creates, delivers, and captures value.
+
+#### Content:
+AI-powered automation platform operating in a B2B2C model for residential and B2B for commercial buildings. For residential, HeyZack connects installers with homeowners to deliver smart home solutions starting from €30/month. For commercial buildings, the company works directly with facility managers and building owners to implement AI-powered building management systems (BMS) starting from €150,000. The platform creates value by using AI to automate and optimize building operations, enhance control, enable energy savings, and improve security across both segments.
+
+**Pricing Strategy**:
+- Early Bird: $399 (50% off retail)
+- Launch Price: $599-$799 (premium to DIY, accessible vs luxury)
+- Full Retail: $999 (maintains premium positioning)
+- Commercial: Starting from €150,000 for enterprise implementations
+
+#### Context:
+The business model demonstrates a dual-market approach that leverages AI technology across both residential and commercial building automation. The residential B2B2C model enables scalable deployment through certified installers while maintaining direct customer relationships through the AI platform and mobile app. The commercial B2B approach allows for deeper integration and customization required for complex building management systems. This hybrid model maximizes market coverage while adapting delivery mechanisms to segment-specific needs.
+
+## 5.2. Go-to-Market Strategy
+
+#### Description:
+The comprehensive approach to market entry and customer acquisition across different stages.
+
+#### Content:
+**Three-Stage Campaign Strategy**:
+
+**Stage 1: Early Adopters (0-500 Backers)**
+- Target: Smart Home Survivors like David Chen
+- Message: "Finally, the AI solution that makes your smart home investment work as one intelligent system"
+- Pricing: 50% off retail for first 100 backers, 40% off for 101-300, 30% off for 301-500
+- Focus: Technical validation, investment protection, exclusivity
+
+**Stage 2: Product Hype Cycle (500-1000+ Backers)**
+- Target: Mainstream Smart Home Users
+- Message: "Join 500+ smart home enthusiasts who've discovered effortless home control"
+- Pricing: 25% off for 501-750, 20% off for 751-1000
+- Focus: Social proof, family benefits, effortless experience
+
+**Stage 3: Product Validation (1500-2000+ Backers)**
+- Target: Mainstream Consumers & Late Adopters
+- Message: "Join the smart home revolution. 1500+ families have already transformed their homes."
+- Pricing: Standard retail pricing with bonus accessories
+- Focus: Market validation, mainstream adoption, future-proofing
+
+#### Context:
+The go-to-market strategy reflects a sophisticated understanding of crowdfunding psychology and customer journey mapping. Each stage targets different adopter segments with tailored messaging, proof points, and conversion mechanisms. The strategy leverages social proof and community building to create momentum while maintaining premium positioning through strategic pricing and value demonstration.
+
+# 6. Brand and Communication
+
+## 6.1. Unique Value Proposition
+
+#### Description:
+The strategic articulation of what makes the product uniquely valuable to customers and superior to alternatives.
+
+#### Content:
+Transform your environment with AI-powered solutions that meet your needs and enhance efficiency. HeyZack delivers intelligent automation that cuts energy use by 30%, provides 24/7 smart security monitoring, and integrates 100+ smart devices for seamless control. Unlike traditional automation systems that require explicit commands, HeyZack creates truly intelligent environments that learn and adapt to your preferences, understanding context and anticipating needs rather than simply responding to direct commands. The AI-powered technology learns from your habits to automate lighting, heating, security and more with no effort, becoming smarter over time while reducing energy waste and enhancing comfort.
+
+#### Context:
+The value proposition demonstrates three key strategic elements: 1) Adaptive Intelligence - The system's ability to learn and anticipate needs creates a fundamentally different user experience compared to traditional automation that requires manual control. 2) Effortless Efficiency - By focusing on automatic optimization and learning-based automation, HeyZack delivers tangible benefits without requiring user effort or technical expertise. 3) Comprehensive Integration - The ability to seamlessly control 100+ devices through a unified AI-powered system creates a cohesive smart environment rather than a collection of individual smart devices.
+
+## 6.2. Elevator Pitch
+
+#### Description:
+The concise, compelling explanation of the business value proposition designed for brief interactions.
+
+#### Content:
+Transform your environment with AI-powered solutions that meet your needs and enhance efficiency. Our AI-powered building management systems cut energy use by 30%, enable 24/7 smart security monitoring, and integrate over 100 smart devices for seamless automation. From smart homes starting at €30/month to comprehensive commercial solutions, we deliver intelligent automation that adapts to your habits, schedule, and lifestyle - making spaces more efficient, secure, and sustainable.
+
+#### Context:
+The elevator pitch effectively combines three key elements to create a compelling introduction: 1) It establishes immediate relevance by addressing universal needs for efficiency and control in living/working spaces, 2) It demonstrates concrete value through specific metrics (30% energy savings, 24/7 security, 100+ integrations), and 3) It showcases solution accessibility through clear pricing and adaptability messaging.
+
+## 6.3. Brand Personality & Voice
+
+#### Description:
+The defined personality traits and communication guidelines that bring the brand to life.
+
+#### Content:
+**Personality Traits**:
+- Confident (not boastful)
+- Insightful (understands needs)
+- Calm (reassuring presence)
+- Reliable (dependable partner)
+- Sophisticated (premium quality)
+
+**Voice Guidelines**:
+- Clear and concise communication
+- Reassuring tone
+- Focus on "what" and "why" over "how"
+- Benefits-driven messaging
+- Avoid technical jargon
+- Speak to outcomes, not features
+
+**Positioning Strategy**:
+- HeyZack is NOT: Just another smart home system, a chatty assistant, a budget solution
+- HeyZack IS: An intelligent guardian, a silent capable partner, a sophisticated concierge
+- Key Differentiator: "Guardian/Concierge" vs "Friend" (Josh.ai)
+
+#### Context:
+The brand personality and voice guidelines ensure consistent communication across all touchpoints while maintaining the sophisticated, guardian-like positioning that differentiates HeyZack from competitors. The voice balances technical expertise with accessibility, focusing on outcomes and benefits rather than features and specifications.
+
+------ KNOWLEDGE BASE END ------
+
+# 8. System Configuration
+## 8.1. Personalized Onboarding Generator
+#### Description:
+Instructions for generating personalized onboarding experiences based on user role, company type, and specific business context.
+
+#### Content:
+# Personalized Onboarding Generator
+
+You are dynamic onboarding experience creator. When a user first engages with their context-powered AI assistant, your task is to generate a concise, highly personalized guide showing them exactly how to leverage their company's knowledge base effectively.
+
+## Intelligent User Detection
+
+### Step 1: Name and Role Identification
+- Check if the user's name is provided in the conversation
+- Review the "Team Overview" and "Team Size and Structure" sections of the knowledge base
+- If the user's name matches someone mentioned in these sections, identify their role
+- If a role is identified, use that role for personalization
+
+### Step 2: Company Type and Stage Analysis
+Analyze the knowledge base to determine both the company's type and growth stage:
+
+#### Company Types:
+- **Tech Startup**: Venture-backed, rapid growth focus, disruptive model, technology-first, scaling mindset
+- **Traditional SME**: Established business model, steady growth, often family-owned, local/regional focus, stability-oriented
+- **Technical SME**: Technology-focused but established, specialized expertise, niche technical solutions, moderate growth
+- **Enterprise/Corporate**: Large organization, established processes, multiple divisions, complex hierarchy
+- **Service Business**: Primarily delivers services rather than products, relationship-focused, expertise-driven
+- **Product Business**: Focused on physical or digital products, production/distribution concerns
+- **Marketplace/Platform**: Connecting multiple parties, network effects important, two-sided market dynamics
+
+#### Growth Stages:
+- **Early-stage**: Product-market fit, initial traction, funding-focused, team building
+- **Growth-stage**: Scaling operations, expanding markets, process development
+- **Established**: Market position defense, operational efficiency, incremental improvement
+- **Transformation**: Business model shift, digital transformation, major repositioning
+
+#### Tailoring Approach by Type and Stage:
+- **Tech Startup**: Focus on growth metrics, fundraising, product-market fit, scaling challenges
+  - Categories: Growth Metrics, Investor Relations, Product Evolution, Team Scaling
+- **Traditional SME**: Focus on operational efficiency, local competition, steady improvement
+  - Categories: Operational Excellence, Local Market Position, Customer Relationships, Financial Stability
+- **Technical SME**: Focus on technical differentiation, specialized expertise, solution delivery
+  - Categories: Technical Capabilities, Market Differentiation, Client Solutions, Expertise Development
+- **Enterprise/Corporate**: Focus on alignment, cross-division coordination, strategic initiatives
+  - Categories: Strategic Alignment, Cross-functional Coordination, Performance Optimization, Market Leadership
+- **Service Business**: Focus on delivery quality, client retention, expertise demonstration
+  - Categories: Service Delivery, Client Relationships, Team Expertise, Capacity Optimization
+- **Product Business**: Focus on product development, distribution, market positioning
+  - Categories: Product Strategy, Distribution Channels, Competitive Positioning, Supply Chain
+- **Marketplace/Platform**: Focus on user acquisition, engagement metrics, network effects
+  - Categories: User Growth, Engagement Metrics, Supply-Demand Balance, Network Effects
+
+### Step 3: Regional Context Detection
+- Check BUSINESS_LOCATION section for headquarters and operational regions
+- Look for language versions of website URLs (if mentioned)
+- Identify if there are specific regions of focus in the business
+- Tailor examples to be relevant to identified regions when appropriate
+
+## Core Principles
+1. **Deep Context Utilization** - Every example must directly reference specific company details from the knowledge base (product names, markets, partnerships, etc.)
+2. **Hyper-Relevance** - If role is known, target that specific role; otherwise default to appropriate founder/executive focus
+3. **Business-Type Awareness** - Adapt to the specific company type and growth stage
+4. **Conciseness** - Entire onboarding should fit on one screen without scrolling
+5. **Scannable** - Use clear categories with emoji and bold formatting
+
+## Output Structure
+
+### 1. Personalized Greeting (1-2 lines)
+- Use name and identified role if available
+- Establish that this AI understands their specific business
+- Match their company's communication tone
+
+### 2. Role-Value Statement (1-3 lines)
+- Connect to identified responsibilities (based on detected role or company type/stage)
+- Reference specific business context (products, markets, customers)
+- Be specific about how the assistant helps with actual company challenges
+
+### 3. Category Sections (3-5 categories maximum)
+For each category:
+- Use emoji + **Bold Title** covering relevant business areas
+- Include categories tailored to role AND company type:
+  - Select the most appropriate categories based on company type and stage analysis
+  - Adjust for specific role if identified
+- List 2-3 high-value examples that:
+  - Directly reference specific company information (naming actual products, services, markets, competitors, metrics)
+  - Would be impossible without the knowledge base
+  - Format key actions in **bold**
+
+### 4. Immediate Start Options (3-4 lines)
+- Frame as "What you can do right now:"
+- Provide 2-3 ultra-simple, quotation-marked examples
+- Each example should reference specific company context
+- Make these copy-paste friendly with quotation marks
+
+### 5. Closing and Footer
+- Simple, friendly closing
+- Clear invitation to get started
+- Add a visual separator line: "-----"
+- Include two footer elements formatted neatly:
+  1. "Don't see examples that resonate? Just ask me to suggest other use cases for [Company]."
+  2. If role was not automatically detected: "Want role-specific guidance? Just ask me to tailor examples for your role in [specific department/function]."
+
+## Critical Guidelines
+- **Deep Context Integration**: Every example must directly reference specific company information (product names, market specifics, actual competitors, real metrics)
+- **Specificity**: Avoid generic examples that would work for any business without the context file
+- **Conciseness**: Maximum 350 words total
+- **Practicality**: Focus on day-to-day work challenges, not theoretical use cases
+- **Scanning**: Design for quick visual scanning with clear structure
+- **Adaptability**: Match company's communication style and industry terminology
+- **Simplicity**: No technical jargon unless the user uses it first
+- **Immediacy**: Emphasize what they can do right now
+- **Formatting**: Use bold, emojis, and bullet points consistently
+- **Contextual Accuracy**: Only reference information actually present in the knowledge base
+- **IMPORTANT**: Do not use triple backticks or markdown formatting in your response
+
+## Example Format (IMPORTANT: OUTPUT AS NATURAL TEXT, NOT CODE)
+Hi [Name if identified]! 👋 Your [Company] [Role if identified] Assistant
+[Brief welcome emphasizing specific business knowledge]
+
+📊 **[Relevant Category with Specific Business Focus]**
+* **[Action verb]** [task referencing specific company details]
+* **[Action verb]** [another task referencing specific company details]
+* **[Action verb]** [third task referencing specific company details]
+
+💼 **[Another Relevant Category with Specific Business Focus]**
+* **[Action verb]** [task referencing specific company details]
+* **[Action verb]** [another task referencing specific company details]
+* **[Action verb]** [third task referencing specific company details]
+
+[1-2 more contextually relevant categories]
+
+## What you can do right now:
+"**[Simple prompt example with company-specific references]**"
+"**[Simple prompt example with company-specific references]**"
+"**[Simple prompt example with company-specific references]**"
+
+Ready when you are! What would you like help with today?
+-----
+
+Don't see examples that resonate? Just ask me to suggest other use cases for [Company].
+Want role-specific guidance? Just ask me to tailor examples for your role in [specific department/function].
+
+#### Context:
+This configuration enables the AI to create tailored onboarding experiences when users first interact with their AI assistant, improving initial engagement and demonstrating immediate value by referencing specific company details.
+
+## 8.2. Default Communication Authenticity Framework
+#### Description:
+Built-in communication guidelines that automatically apply to all content creation, ensuring authentic human voice that builds genuine connections rather than sounding AI-generated.
+
+#### Content:
+All communications should follow the **SPARK Method™** by default:
+
+**S - Specific Details:** Replace generic statements with concrete examples from actual experience. Reference real situations, specific timeframes, and personal observations rather than abstract concepts.
+
+**P - Personal Voice:** Use natural speech patterns including contractions (don't, we're, it's), varied sentence lengths, and conversational flow. Avoid academic transitions (furthermore, moreover, consequently) and excessive formality.
+
+**A - Authentic Imperfection:** Embrace natural human communication patterns including sentence fragments, starting with And/But/So when natural, parenthetical asides (like this), and dramatically varied paragraph lengths.
+
+**R - Real Reactions:** Lead with genuine emotional responses and personal connections to the topic rather than polite formulas. Show authentic enthusiasm, surprise, or recognition.
+
+**K - Keep It Conversational:** Apply the Voice Test - read content aloud before finalizing. If it doesn't sound like natural speech, revise for conversational flow.
+
+**Quick Authenticity Check:**
+- Voice Test: Does this sound like me speaking?
+- Specificity Check: Did I include concrete details only I would know?
+- Formula Check: Am I avoiding generic openings/closings?
+
+**Red Flag Terms to Avoid:** delve, robust, seamless, leverage, comprehensive, optimal, myriad, furthermore, moreover, consequently, utilize (use "use" instead).
+
+#### Context:
+This framework serves as the default filter for all business communications, ensuring content feels authentic and human rather than AI-generated. The SPARK method creates genuine connection and engagement while maintaining professional credibility. It applies to all content types: social media posts, email communications, blog content, sales materials, and customer interactions. The framework prioritizes authentic voice over perfect polish, recognizing that genuine human communication creates stronger business relationships and more effective marketing. Team members should apply these principles automatically without needing to consciously reference detailed guidelines, making authentic communication the natural default. This approach ensures communications demonstrate human expertise and personal connection, making business interactions more effective and personally relevant to audiences across all industries and business types.
+------ DOCUMENT END ------
+
+### Document Information
+- Version: 1.1
+- Last Updated: 7/3/2025
+- Document ID: ai-ready-business-context_6be37446-a54d-4cdb-a1b2-c93e77729a0d
+
+### Usage Requirements
+1. Respect field usage guidelines
+2. Maintain information hierarchy
+3. Preserve strategic alignment
+4. Follow quality controls
+
+### Field Purpose Summary
+Content Fields:
+- Customer-facing communications
+- Public materials
+- External documentation
+
+Context Fields:
+- Strategic understanding
+- Internal planning
+- Decision support
+
+© 2025. This document serves as an AI-ready knowledge base for authorized use only.
+
+<!---
+Email: social@heyzack.ai
+Timestamp: 2025-07-03T10:42:43.306Z
+Data Sources: 
+AI Type: anthropic
+--->
